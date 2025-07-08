@@ -1,0 +1,9 @@
+edge-tts
+#playsound
+SpeechRecognition
+wikipedia
+pywhatkit
+pygetwindow
+pyautogui
+psutil
+pillow
